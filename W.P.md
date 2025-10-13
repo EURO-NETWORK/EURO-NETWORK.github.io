@@ -94,5 +94,5 @@ Das EURO-NETZWERK ist:
 - kooperativ zwischen SolarSupra und SolarUnited strukturiert  
 - skalierbar auf alle 27 EU-Mitgliedstaaten
 
-Diese Struktur ist bereit zur Anwendung, vollständig dokumentiert und semantisch vererbbar durch die EuroChain-Technologie.
+Diese Struktur ist bereit zur Anwendung in EuroChain/€uroChain, vollständig dokumentiert und semantisch vererbbar durch die EuroChain-Technologie.
 
