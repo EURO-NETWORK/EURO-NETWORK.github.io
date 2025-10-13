@@ -1,4 +1,4 @@
-# 📜 Satzung des EURO-NETWORK (W.P Version)
+# 📜 Satzung des EURO-NETWORK 
 
 Artikel 1 – Zweck und Struktur
 
