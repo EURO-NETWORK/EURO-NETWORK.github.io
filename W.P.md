@@ -27,7 +27,7 @@ Die vier Grundtypen sind:
 | CountryChain                | 2                | 32                     | €EUROx / €UROx Stable Coins       | Supranationale Kodierung, Aggregation aller Forks, EU-Identität                              |
 | FederalChain                | 2                | 32                     | €SSG, €SNRW, …                    | Landesstruktur, Aggregation von Städten & Communities                                        |
 | CityChain                   | 2                | 1                      | €SSCH, €SHAA, €SGRU, …            | Einzelstadt, App-Verwaltung, Bürgerinterface                                                 |
-| CommunityChain              | 2                | 1                      | €SRÜG, €HEROES, …                 | Mikrounternehmen, Ortsteilstruktur, Sozialfonds                                              |
+| CommunityChain              | 2                | 1                      | €SRÜG, €SUH, …                 | Mikrounternehmen, Ortsteilstruktur, Sozialfonds                                              |
 
 Übergeordnet:  
 - EuroChain = €EURO / €URO StableCoin  
