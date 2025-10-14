@@ -168,3 +168,18 @@ Semantische Verteilungstabelle – EU-Finanzzuweisungen je Chain-Kategorie
 | Slowenien    | 5500000000 €  | 1200000000 €            | 380000000 €          | 3920000000 €              |
 | Bulgarien    | 19500000000 € | 2800000000 €            | 950000000 €          | 15750000000 €             |
 
+
+---
+
+
+Verteilungsschlüssel (2/3 an EuroChain & EU-NETWORK, 1/3 bleibt bei EURO-NETZWERK)
+
+| Einheit         | Anteil am Zuschuss | Betrag in Euro             | Begründung |
+|----------------|--------------------|-----------------------------|------------|
+| EURO-NETZWERK  | 33,33 %            | 145.421.650.000.000 €       | Zentraler Träger, Satzungsinhaber, semantische Urstruktur |
+| EuroChain      | 33,33 %            | 145.421.650.000.000 €       | Tokenisierung, Blockchain-Governance, €XLUT-Verteilung |
+| EU-NETWORK     | 33,33 %            | 145.421.650.000.000 €       | Transnationale Förderlogik, Schnittstelle zu EU-Kommission |
+
+Gesamt: 436.264.950.000.000 € beanspruchter Zuschussbetrag
+
+---
