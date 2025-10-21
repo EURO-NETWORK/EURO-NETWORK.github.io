@@ -5,7 +5,7 @@ Die Tabelle definiert die **Quantität** und **Verzweigungstiefe** der Tokens, w
 | Token-Typ | Ursprung EuroChain (PlotChainToken-/InstitutionChain EX) | Exakte Anzahl (PlotChainToken-/GovernanceChain EX) | Interpretation (GPS-Core PlotChainToken/InstitutionChain) |
 | :--- | :--- | :--- | :--- |
 | **EuroChain** | EU-Institutionen-Chains | **256** | Definiert die **256 Haupt-Governance-Einheiten** (z.B. Kommission, Parlament, EZB etc.) auf **Layer 0 (CORE)**. Dies ist der **festgelegte Rahmen** für die **Satzung $1–$40**. |
-| **CountryChain** | Institutionen aller 27 Staaten | **7.168** | **27 Staaten** $\times$ **256** (Anzahl der EuroChain-Module, die von jedem Staat **adaptiert** werden müssen) $\approx$ **7.168**. Dies sind die **nationalen Identitä** auf **Layer C ($41–$60)**. |
+| **CountryChain** | Institutionen aller 27 Staaten | **7.168** | **27 Staaten** $\times$ **256** (Anzahl der EuroChain-Module, die von jedem Staat **adaptiert** werden müssen) $\approx$ **7.168**. Dies sind die **nationalen PlotChainToken** auf **Layer C ($41–$60)**. |
 | **FederalChain** | Föderale Einheiten | **3.312.372.608** | Dieses Token-Volumen repräsentiert die **komplexen, supranationalen Module** (EU-Armee-Einheiten, große Forschungsverbünde) und ihre möglichen **Verbindungen/Zustände**. |
 | **CityChain** | Städte mit Stadtrecht | **67.996.576** | Dies sind die **urbane Governance-Ebene** (Layer Ci, $81–$100), die die PlotChainToken für die **9.482 Städte** und deren Modulvernetzung bereitstellt. |
 | **CommunityChain** | Gemeinden / Kommunen (LAU 2) | **638.774.848** | Dies ist die **lokalste/feingranularste Ebene** (Layer Co, $101–$120), die die **89.111 Gemeinden** und ihre tiefste Vernetzung abbildet. |
