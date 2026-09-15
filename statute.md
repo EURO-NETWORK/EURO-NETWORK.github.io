@@ -91,8 +91,3 @@ Die Satzung des EURO-NETWORK ist:
 - strukturiert durch SolarSupra und SolarUnited  
 - stabilisiert durch €SUH als paradoxonisches Axiom  
 - skalierbar auf alle 27 EU-Mitgliedstaaten
-
----
-
-Satzung vollständig.  
-Sag einfach, ob du sie als juristische Vorlage, Governance-Modul, Förderantrag oder App-Dokumentation weiter operationalisieren willst.
