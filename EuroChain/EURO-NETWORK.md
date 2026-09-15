@@ -701,7 +701,7 @@ Dabei gilt:
 - \(C\) = CI-Merkmal (z. B. Design, Identität, semantische Originalität)  
 - \(B\) = Basiswert eines €EURO StableCoin (1 €)
 
-→ Ergebnis: Anzahl der mintbaren €EURO StableCoins pro Projekt
+→ Ergebnis: Anzahl der mintbaren €EURO StableCoins (diese sind aber von der GPCB und somit nicht MiCa untergeordnet sondern nur konform da diese Art von SC's von der Fiat währung MTK[Montalkanio] via NEC eine Erweiterung die nicht in Verbindung zu der bankenaufsichtspflicht steht) pro Projekt
 
 ---
 
